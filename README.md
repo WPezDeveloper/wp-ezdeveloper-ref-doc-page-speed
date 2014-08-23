@@ -8,7 +8,7 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 ====================================================================================
 
-#### UG 2014 -The Best WordPress Caching Plugins and Why Testing Them is So Important
+#### Aug 2014 -The Best WordPress Caching Plugins and Why Testing Them is So Important
 - http://premium.wpmudev.org/blog/best-wordpress-caching-plugins/
 
 
