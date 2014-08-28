@@ -8,6 +8,11 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 ====================================================================================
 
+
+#### Aug 2014 - How we make RWD sites load fast as heck
+- http://filamentgroup.com/lab/performance-rwd.html
+
+
 #### Aug 2014 -The Best WordPress Caching Plugins and Why Testing Them is So Important
 - http://premium.wpmudev.org/blog/best-wordpress-caching-plugins/
 
