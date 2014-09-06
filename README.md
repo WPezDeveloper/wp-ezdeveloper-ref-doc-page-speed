@@ -24,13 +24,17 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 - http://www.syntaxxx.com/top-free-cdn-services-for-your-website/
 
 
-#### Aug 2014: For when they ask: "Does speed really matter?" (Infographic)
+#### Aug 2014 - For when they ask: "Does speed really matter?" (Infographic)
 - http://speckyboy.com/2014/08/06/why-faster-websites-make-more-money/
 
 
-####July 2014 
+#### July 2014 - Speed Up Your WordPress Site
 - http://www.sitepoint.com/speed-wordpress/
 
 
-####June 2014
+#### June 2014 - How To Speed Up Your WordPress Website
  - http://www.smashingmagazine.com/2014/06/25/how-to-speed-up-your-wordpress-website/
+
+ 
+#### Make the Web Faster
+ - https://developers.google.com/speed/pagespeed/
