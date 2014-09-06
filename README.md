@@ -8,6 +8,9 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 ====================================================================================
 
+#### Sept 2014 - Paul Irish: Day 2 Keynote - Delivering The Goods In Under 1000ms
+- https://www.youtube.com/watch?v=E5lZ12Z889k
+
 
 #### Aug 2014 - How we make RWD sites load fast as heck
 - http://filamentgroup.com/lab/performance-rwd.html
