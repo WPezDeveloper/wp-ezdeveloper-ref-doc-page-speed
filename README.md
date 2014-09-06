@@ -36,6 +36,13 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
  - http://www.smashingmagazine.com/2014/06/25/how-to-speed-up-your-wordpress-website/
  
  
+#### Feb 2013 - Using GZip Compression to Make WordPress Fly
+ - http://workfunc.com/gzip-compression-make-wordpress-fly/
+
+
+=========================================================================================================
+ 
+ 
 ##Other Resources
 
 #### P3 (Plugin Performance Profiler)
