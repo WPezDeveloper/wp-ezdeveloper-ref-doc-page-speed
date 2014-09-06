@@ -34,7 +34,13 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 #### June 2014 - How To Speed Up Your WordPress Website
  - http://www.smashingmagazine.com/2014/06/25/how-to-speed-up-your-wordpress-website/
+ 
+ 
+##Other Resources
 
+#### P3 (Plugin Performance Profiler)
+ - http://wordpress.org/plugins/p3-profiler/
+ 
  
 #### Make the Web Faster
  - https://developers.google.com/speed/pagespeed/
