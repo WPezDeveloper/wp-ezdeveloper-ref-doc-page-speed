@@ -8,7 +8,10 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 ====================================================================================
 
-### Sept 2014 -5 of the Most Popular WordPress Caching Plugins
+#### WordPress Caching with WP Rocket (vs  W3 Total Cache, Super Cache)
+ - https://www.ostraining.com/blog/wordpress/wp-rocket/
+
+#### Sept 2014 -5 of the Most Popular WordPress Caching Plugins
 - http://www.sitepoint.com/5-of-the-most-popular-wordpress-caching-plugins/
 
 #### Sept 2014 - Paul Irish: Day 2 Keynote - Delivering The Goods In Under 1000ms
