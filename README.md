@@ -7,6 +7,8 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 
 ====================================================================================
+#### A Beginner's Guide to Perceived Performance: 4 Ways to Make Your Mobile Site Feel Like a Native App
+- http://www.mobify.com/blog/beginners-guide-to-perceived-performance/
 
 #### WordPress Caching with WP Rocket (vs  W3 Total Cache, Super Cache)
  - https://www.ostraining.com/blog/wordpress/wp-rocket/
