@@ -7,6 +7,10 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 
 ====================================================================================
+
+####Optimizing the Critical Rendering Path
+- http://www.sitepoint.com/optimizing-critical-rendering-path/
+
 #### A Beginner's Guide to Perceived Performance: 4 Ways to Make Your Mobile Site Feel Like a Native App
 - http://www.mobify.com/blog/beginners-guide-to-perceived-performance/
 
