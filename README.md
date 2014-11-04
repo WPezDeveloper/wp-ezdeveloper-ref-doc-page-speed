@@ -8,6 +8,9 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 ====================================================================================
 
+####Nov 2014 - How to Make Your Blog Load in 560ms
+- http://www.sitepoint.com/how-make-blog-load-560ms/
+
 ####Optimizing the Critical Rendering Path
 - http://www.sitepoint.com/optimizing-critical-rendering-path/
 
@@ -17,7 +20,7 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 #### WordPress Caching with WP Rocket (vs  W3 Total Cache, Super Cache)
  - https://www.ostraining.com/blog/wordpress/wp-rocket/
 
-#### Sept 2014 -5 of the Most Popular WordPress Caching Plugins
+#### Sept 2014 - 5 of the Most Popular WordPress Caching Plugins
 - http://www.sitepoint.com/5-of-the-most-popular-wordpress-caching-plugins/
 
 #### Sept 2014 - Paul Irish: Day 2 Keynote - Delivering The Goods In Under 1000ms
