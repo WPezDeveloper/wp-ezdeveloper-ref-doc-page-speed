@@ -8,6 +8,9 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 ====================================================================================
 
+####Slides: Advanced CSS Performance Tooling
+- https://speakerdeck.com/addyosmani/css-performance-tooling
+
 ####Nov 2014 - How to Make Your Blog Load in 560ms
 - http://www.sitepoint.com/how-make-blog-load-560ms/
 
