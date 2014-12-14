@@ -8,17 +8,25 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 ====================================================================================
 
-####Slides: Advanced CSS Performance Tooling
+#### Dec 2014 - Tuning WordPress to Handle High Amounts of Traffic
+- http://www.sitepoint.com/tuning-wordpress-to-handle-higher-amounts-of-traffic/
+
+
+#### Slides: Advanced CSS Performance Tooling
 - https://speakerdeck.com/addyosmani/css-performance-tooling
 
-####Nov 2014 - How to Make Your Blog Load in 560ms
+
+#### Nov 2014 - How to Make Your Blog Load in 560ms
 - http://www.sitepoint.com/how-make-blog-load-560ms/
 
-####Optimizing the Critical Rendering Path
+
+#### Optimizing the Critical Rendering Path
 - http://www.sitepoint.com/optimizing-critical-rendering-path/
+
 
 #### A Beginner's Guide to Perceived Performance: 4 Ways to Make Your Mobile Site Feel Like a Native App
 - http://www.mobify.com/blog/beginners-guide-to-perceived-performance/
+
 
 #### WordPress Caching with WP Rocket (vs  W3 Total Cache, Super Cache)
  - https://www.ostraining.com/blog/wordpress/wp-rocket/
