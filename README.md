@@ -8,6 +8,9 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 ====================================================================================
 
+#### Feb 2015 - Speed Up WordPress: Caching and Database Optimization
+- http://code.tutsplus.com/tutorials/using-plugins-to-speed-up-wordpress--cms-22055
+
 #### Jan 2015 - Strategies for Keeping CSS Specificity Low
 - http://css-tricks.com/strategies-keeping-css-specificity-low/?utm_source=dlvr.it&utm_medium=facebook
 
