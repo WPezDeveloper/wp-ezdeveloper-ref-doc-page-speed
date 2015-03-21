@@ -8,6 +8,10 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 ====================================================================================
 
+#### March 2015 - Speed Up Your WordPress Webste
+- simpleturtle.com/guides/wordpress-settings/speed-up-your-wordpress-website/
+
+
 #### Feb 2015 - Speed Up WordPress: Caching and Database Optimization
 - http://code.tutsplus.com/tutorials/using-plugins-to-speed-up-wordpress--cms-22055
 
