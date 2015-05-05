@@ -8,6 +8,10 @@ A collection of knowledge as it relates to optimizing WordPress for speed.
 
 ====================================================================================
 
+#### May 2015 - Practical Performance Tips to Make Your HTML/JavaScript Faster (7 parts)
+ - http://channel9.msdn.com/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster/
+ - 
+
 #### April 2015 - Hristo Pandjarov @ WordCamp SD, CA - Why is My Website Slow?
  - http://www.slideshare.net/siteground/hristo-pandjarov-wordcamp-san-diego-why-is-my-website-slow-46567579
 
