@@ -3,10 +3,18 @@ wp-ezdeveloper-ref-doc-speed
 
 A collection of knowledge as it relates to optimizing WordPress for speed. 
 
-##Currently, this is a quick & simple dump. It will be curated in due time
+Note: This is a quick & simple dump. It will be curated in due time
 
 
-====================================================================================
+
+---
+
+**"What this WPezDevelope Ref Doc stuff all about?"**
+
+https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
+
+---
+
 
 #### May 2015 - Practical Performance Tips to Make Your HTML/JavaScript Faster (7 parts)
  - http://channel9.msdn.com/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster/
