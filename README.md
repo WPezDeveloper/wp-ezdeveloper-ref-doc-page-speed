@@ -15,6 +15,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### Aug 2015 - Understanding Critical CSS
+ - http://www.smashingmagazine.com/2015/08/understanding-critical-css/
+ - 
+
 ##### July 2015 - The Ultimate Mega Guide to Speeding Up WordPress 
  - http://premium.wpmudev.org/blog/speeding-up-wordpress/
 
