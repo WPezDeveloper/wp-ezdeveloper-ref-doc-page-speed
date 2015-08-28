@@ -15,6 +15,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### Aug 2015 - A Beginner’s Guide to Website Speed Optimization - @KinstaHosting
+ - https://kinsta.com/learn/page-speed/
+ 
+
 ##### Aug 2015 - Understanding Critical CSS
  - http://www.smashingmagazine.com/2015/08/understanding-critical-css/
  - 
