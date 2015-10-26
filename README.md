@@ -17,6 +17,7 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ##### Aug 2015 - 14 Ways To Speed Up WordPress And Decrease Page Load Time - @nschaeferhoff
  - http://torquemag.io/ways-to-speed-up-wordpress-decrease-page-load-time/
+ 
 
 ##### Aug 2015 - A Beginner’s Guide to Website Speed Optimization - @KinstaHosting
  - https://kinsta.com/learn/page-speed/
