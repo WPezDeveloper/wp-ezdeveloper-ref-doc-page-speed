@@ -15,6 +15,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+###$ Dec 2015 - Real Talk on WordPress Performance: 5 Must-Haves for High-Speed Sites - https://twitter.com/outlandishjosh
+ - https://pantheon.io/blog/real-talk-wordpress-performance-5-must-haves-high-speed-sites
+
+
 ##### Aug 2015 - 14 Ways To Speed Up WordPress And Decrease Page Load Time - @nschaeferhoff
  - http://torquemag.io/ways-to-speed-up-wordpress-decrease-page-load-time/
  
