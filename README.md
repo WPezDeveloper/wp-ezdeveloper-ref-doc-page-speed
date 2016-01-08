@@ -15,7 +15,11 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
-###$ Dec 2015 - Real Talk on WordPress Performance: 5 Must-Haves for High-Speed Sites - https://twitter.com/outlandishjosh
+#### Jan 2016 - 12 Ways to Speed up Your WordPress Website - (Doyin Faith Kasumu) https://twitter.com/turn2honey
+ - http://www.sitepoint.com/12-ways-to-speed-up-your-wordpress-website/
+
+
+#### Dec 2015 - Real Talk on WordPress Performance: 5 Must-Haves for High-Speed Sites - https://twitter.com/outlandishjosh
  - https://pantheon.io/blog/real-talk-wordpress-performance-5-must-haves-high-speed-sites
 
 
