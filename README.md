@@ -15,8 +15,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+
 #####Sept 2016 - Designers Guide to Web Performance Optimization
  - http://jonyablonski.com/2016/designers-guide-to-web-performance-optimization/
+ - http://jonyablonski.com/designers-wpo-checklist/
 
 #### Jan 2016 - 12 Ways to Speed up Your WordPress Website - (Doyin Faith Kasumu) https://twitter.com/turn2honey
  - http://www.sitepoint.com/12-ways-to-speed-up-your-wordpress-website/
