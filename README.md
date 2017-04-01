@@ -14,6 +14,9 @@ Note: This is a quick & simple dump. It will be curated in due time
 https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
 
 ---
+##### April 2017 - Plugin: Complete Analytics Optimization Suite (CAOS)
+- https://wordpress.org/plugins/host-analyticsjs-local/
+
 ##### November 2016 - 15 Site Speed Tips To Make WordPress Lightning Fast
 - https://wpengine.com/blog/site-speed-make-wordpress-lightning-fast/
 
