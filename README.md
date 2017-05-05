@@ -14,6 +14,9 @@ Note: This is a quick & simple dump. It will be curated in due time
 https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
 
 ---
+##### May 2017 - 11 Free Website Speed Test Tools for WordPress Users
+ - https://kinsta.com/blog/website-speed-test/
+
 ##### April 2017 - Plugin: Complete Analytics Optimization Suite (CAOS)
 - https://wordpress.org/plugins/host-analyticsjs-local/
 
